@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://mlearing-platform.365yunxueyuan.com/service/wxbClient.png</string>
+					<string>http://mlearing-platform.365yunxueyuan.com/service/bankClient.png</string>
 			    </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bshinfo.wxbphone</string>
+				<string>com.bshinfo.bank</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
